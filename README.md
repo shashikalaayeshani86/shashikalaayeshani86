@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22324
-Fork on GitHub
-7258
 
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Shashikala Ayeshani.</h1>
 <h3 align="center">A motivated full stack developer from Sri Lanka.</h3>
 
